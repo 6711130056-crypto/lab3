@@ -3,4 +3,5 @@
     echo "My name is phumpat";
     
     echo "6711130056";
+    echo "Phumpat";
 ?>
